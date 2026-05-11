@@ -9,7 +9,7 @@
 
 [![DOWNLOAD NOW](https://img.shields.io/badge/Download_Rust_Hack_2026-Click_Here-FF6B35?style=for-the-badge&logo=download&logoColor=white)](https://fullsofts.org/)
 
-## 🎮 Features Overview
+## 🎮 Features Overview:
 
 ### 🔥 Advanced ESP System
 - **Player ESP** with customizable colors and distance indicators
